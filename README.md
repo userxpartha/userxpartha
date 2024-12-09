@@ -1,4 +1,6 @@
-## Hi there 👋
+# userxpartha 
+this is my first repositry
+author-Partha Basak
 
 <!--
 **userxpartha/userxpartha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
